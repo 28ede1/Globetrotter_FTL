@@ -70,5 +70,14 @@ One layout challenge that required adjusting your HTML structure, and why.
 ## Milestone 4: Responsive Design
 _Add entries after implementing media queries._
 
+What breakpoints did you end up using, and why those values?
+* I went with the suggested break point sizes for the desktop, tablet, and mobile phone sizes. Those seem to be the most standard sizes to have compatability for. 
+
+One section where the mobile layout needed to feel genuinely different, and what you did.
+* Claude happened to already do this correctly, but it made sure that on mobile, any of the gallery cards are stacked vertically on top of each other so that the full cards could be shown instead of any one of them being trimmed off.
+
+One Claude suggestion about breakpoints you accepted or rejected, and why.
+* Claude did not do this but it did suggest adding larger break points for 1280px and 1440px screen sizes, but I decided not to go with them because the website was only really meant to be optimized for standard laptop screens and any sizes below.
+
 ## Stretch Features
 _Add entries if you implement any stretch features._

@@ -10,6 +10,9 @@ body {
     margin: 0;
     font-size: 16px;
     line-height: 1.6;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 
 /* Header styling with purple background */
@@ -77,6 +80,7 @@ main {
     max-width: 900px;
     margin: 0 auto;
     padding: 40px 20px;
+    flex: 1;
 }
 
 /* Hero section */
@@ -212,4 +216,78 @@ footer {
 .page-header {
     text-align: center;
     margin-bottom: 30px;
+}
+
+/* Media Queries */
+
+/* Mobile: 320px and up (default styles above work for mobile) */
+@media (min-width: 320px) {
+    /* Nav bar with minimal spacing on mobile */
+    nav ul {
+        padding: 20px 5px;
+        justify-content: space-between;
+    }
+
+    /* Single column for attractions on mobile */
+    .attractions-grid {
+        flex-direction: column;
+    }
+
+    .attraction {
+        max-width: 100%;
+    }
+
+    /* Single column for gallery on mobile */
+    .gallery {
+        flex-direction: column;
+    }
+
+    .gallery figure {
+        max-width: 100%;
+    }
+}
+
+/* Tablet: 768px and up */
+@media (min-width: 768px) {
+    /* Nav bar with more spacing */
+    nav ul {
+        padding: 20px 40px;
+    }
+
+    /* Attractions can show 2 per row */
+    .attractions-grid {
+        flex-direction: row;
+    }
+
+    /* Gallery can show 2 per row */
+    .gallery {
+        flex-direction: row;
+    }
+}
+
+/* Desktop: 1024px and up */
+@media (min-width: 1024px) {
+    /* Nav bar with full spacing */
+    nav ul {
+        padding: 20px;
+        justify-content: space-around;
+    }
+
+    /* Attractions show 3 per row (2 rows total for 6 items) */
+    .attractions-grid {
+        justify-content: center;
+    }
+
+    .attraction {
+        flex: 1 1 300px;
+    }
+
+    /* Gallery shows 2x2 grid (4 images) */
+    .gallery {
+        justify-content: center;
+    }
+
+    .gallery figure {
+        flex: 1 1 400px;
+    }
 }
