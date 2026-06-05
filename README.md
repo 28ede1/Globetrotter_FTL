@@ -92,15 +92,19 @@ Deployed Application (optional): [Globetrotter Deployed Site](https://28ede1.git
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+I would say that the topics that I learned gave me a good overview the main topics needed to get started with the project. While we did not cover all of HTML and CSS concepts, I was able to get a good enough grasp of the key syntax to get started and then ask claude about what I did not know. 
+
+Learning about wireframes was particularly helpful for planning out the structure of my website and allowing claude to have a contextual understanding of what to implement based on what I prompted. 
+
+I did feel like there were moments where I was just asking claude what to do and then having to decipher the complicated syntax that I did not learn yet, but having to accept and understand what was accepted in order to make progress and submit my project on time. 
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+I would have sat down and looked at example websites so that I could have a better understanding of what the website would look like and thus sketch out better wireframes that both me as the architecture and claude as the main programming can reference.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+Despite the time spent preparing for the presentation, I feel like I did well enough discussing my project and highlighting the key features. Next time, I would have a more prepared demo and method of demoing (probably a slides presentation summarizing the key features) and would reach out to mentors for help to give me advice for making my presentation skills better.
 
 ### Open-source libraries used
 
@@ -109,3 +113,9 @@ Add your response here
 ### Shout out
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+
+Greg Merill
+
+Praveen (my mentor)
+
+Benny, Semir, Heartwill (fellow peers)
