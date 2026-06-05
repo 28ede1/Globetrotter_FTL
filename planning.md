@@ -106,3 +106,20 @@ Is there anything about the spacing, alignment, or sizing that's important to th
 
 * The Discover Williamstown header should be centered vertically. 
 * There should not be any black space for all of the actual images. The 4 images used should all be the same size.
+
+MILESTONE 4
+
+What are the three device sizes you're designing for, and what width defines each breakpoint?
+* Mobile --> min-width: 320px
+* Tablet --> min-width: 768px
+* Desktop --> min-width: 1024px
+
+For each major section of your site, what needs to change at each breakpoint? (e.g., a three-column layout becoming a single column)
+
+* For the attractions and campus life page, the gallery cards should transition from rows of cards to just a single card shown at a time for mobile view.
+* For the campus eats page, the sections containing restaurant information should remain stacked and text should remain left-aligned.
+* For the gallery page, the images should be stacked on mobile view so that there is one image card shown at a time as the user scrolls down.
+
+Are there any sections where the mobile experience should feel meaningfully different from desktop, not just smaller?
+
+* Not really. I feel like the format idea I have scales well to mobile. But I do want the actual images themselves to scale well on a mobile screen.
