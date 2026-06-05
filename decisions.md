@@ -35,6 +35,23 @@ One place where your wireframe guided a specific decision about structure.
 ## Milestone 2: CSS Styling
 _Add entries after applying styles._
 
+One color or font choice you made, and why it serves your destination.
+
+* I made the color pallet (royal purple, yellow and white) and font choice (inspired by fonts font on williams college website) to create 
+* a consistent easily identifiable webpage that is unique to Williams College and the college town.
+
+One Claude suggestion you rejected, and why.
+
+* Claude had made all of the page titles in the nav bars highlight yellow. I decided to change the "active" class attribute in such a way that only 1 of the 
+* page titles will be highlighted at a time, and the title highlighted is dependent on what page the user is on. I felt like this would make it easier for the user to
+* immediately know which of the sub pages they were on.
+
+One style that didn't look right at first, and what you changed.
+
+* I noticed that claude did not add the images to the webpage with a consistent sizing. I decided to go through all images on the webpages and manually convert the dimensions 
+* so that the images would all be the same size (except for the header image meant to take up as much horizontal space as it needs.). There is likely a better way that involves using flexbox to
+* arrange the figure elements and adjust the image proportions.
+
 ## Milestone 3: Flexbox Layout
 _Add entries after implementing Flexbox._
 
