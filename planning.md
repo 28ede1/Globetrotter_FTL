@@ -123,3 +123,11 @@ For each major section of your site, what needs to change at each breakpoint? (e
 Are there any sections where the mobile experience should feel meaningfully different from desktop, not just smaller?
 
 * Not really. I feel like the format idea I have scales well to mobile. But I do want the actual images themselves to scale well on a mobile screen.
+
+STRETCH FEATURES:
+
+Deploy the website so that the website can be accessible via link
+LINK: https://28ede1.github.io/Globetrotter_FTL/
+
+
+For additional media, embed a Google Map so that users can see food spots and where they are located around the area. The map could be placed on the main page under the "Exploring the Purple Valley" header section. Below the description, there should be a map.
