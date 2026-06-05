@@ -62,5 +62,42 @@
     <footer>
         <p>&copy; 2026 Globetrotter: Williams College Guide</p>
     </footer>
+
+    <!-- Newsletter Alert Button -->
+    <div class="newsletter-alert">
+        <button class="alert-button" onclick="openModal()">🔔</button>
+    </div>
+
+    <!-- Newsletter Modal -->
+    <div class="modal" id="newsletterModal" onclick="closeModal(event)">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <h2>Travel Newsletter</h2>
+            <p>Sign up for alerts about Williamstown and the Purple Valley!</p>
+            <form onsubmit="handleSubmit(event)">
+                <input type="text" placeholder="Name" required>
+                <input type="email" placeholder="Email" required>
+                <button type="submit" class="submit-btn">Sign Up</button>
+                <button type="button" class="close-btn" onclick="closeModal()">Close</button>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        function openModal() {
+            document.getElementById('newsletterModal').classList.add('active');
+        }
+
+        function closeModal(event) {
+            if (!event || event.target.id === 'newsletterModal') {
+                document.getElementById('newsletterModal').classList.remove('active');
+            }
+        }
+
+        function handleSubmit(event) {
+            event.preventDefault();
+            alert('Thank you for signing up!');
+            closeModal();
+        }
+    </script>
 </body>
 </html>

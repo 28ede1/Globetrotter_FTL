@@ -131,3 +131,7 @@ LINK: https://28ede1.github.io/Globetrotter_FTL/
 
 
 For additional media, embed a Google Map so that users can see food spots and where they are located around the area. The map could be placed on the main page under the "Exploring the Purple Valley" header section. Below the description, there should be a map.
+
+Use custom font importing to get font styles that match the feel of Williams College
+
+Implement a flashing alert symbol that is tiny and short go at the corner of 

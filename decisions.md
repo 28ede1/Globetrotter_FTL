@@ -82,4 +82,8 @@ One Claude suggestion about breakpoints you accepted or rejected, and why.
 ## Stretch Features
 _Add entries if you implement any stretch features._
 
-I added an embeded map to the homepage. I asked claude to add the map to the content section of the below the paragraph text introducing the website, so that the user could start exploring things that are nearby. When I asked claude to do this, it also suggested edits to the media querying so that the map could scale well to mobile. I did not consider this when I was prompting so I am glad Claude suggested for me to do this.
+* I added an embeded map to the homepage. I asked claude to add the map to the content section of the below the paragraph text introducing the website, so that the user could start exploring things that are nearby. When I asked claude to do this, it also suggested edits to the media querying so that the map could scale well to mobile. I did not consider this when I was prompting so I am glad Claude suggested for me to do this.
+
+* Deployed via github pages (note to self, commit and push changes and the github will automatically redeploy the page)
+
+* Implemented flashing alert symbol that appears on bottom right corner of the screen for all ages.
