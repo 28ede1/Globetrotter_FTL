@@ -31,3 +31,78 @@ What typography (heading font / body font) fits your destination's character?
 What's one visual choice that connects to your destination's identity?
 
 * Minimalist aesthetic of the color choice, so large amounts of negative space to offset other design choices
+
+MILESTONE 3:
+
+Homepage:
+
+What content does this section contain and how should it be arranged? (e.g., side by side, stacked, grid-like)
+
+* The homepage contains 5 sections: A nav bar, the header image, the header title, the content meant to describe the purpose of the website, and a footer. The 5 sections should be stacked vertically. The nav bar items should remain side by side with gaps in between them.
+
+How many columns or items should appear in a row at desktop width?
+
+* The 5 aforementioned sections should be stacked vertically such that there remains 5 distinct rows. The nav bar items (Home, Attractions, Food, Gallery) should remain side by side such that there are 4 columns apart of the nav bar.
+
+How should that change on a smaller screen?
+
+* Most of the structure should remain the same. The nav bar should shrink in space (in terms of shrinking the gaps on both sides of the nav bar.) In other words, on a mobile screen there should be no space (or barely any space) to the left of the home option, and barely any space to the right of the gallery option.
+
+Is there anything about the spacing, alignment, or sizing that's important to the design?
+
+* The Discover Williamstown header should be centered vertically. 
+
+Attractions page:
+
+What content does this section contain and how should it be arranged? (e.g., side by side, stacked, grid-like)
+
+* The homepage contains 5 sections: A nav bar, the header image, the header title, the content meant to detail the different attractions around campus (using 6 different sections), and a footer. The 5 sections should be stacked vertically. The nav bar items should remain side by side with gaps in between them.
+
+How many columns or items should appear in a row at desktop width?
+
+* The 5 aforementioned sections should be stacked vertically such that there remains 5 distinct rows. The nav bar items (Home, Attractions, Food, Gallery) should remain side by side such that there are 4 columns apart of the nav bar. The Attractions and Campus life section should be 2 rows with 3 article elements.
+
+How should that change on a smaller screen?
+
+* Most of the structure should remain the same. The nav bar should shrink in space (in terms of shrinking the gaps on both sides of the nav bar.) In other words, on a mobile screen there should be no space (or barely any space) to the left of the home option, and barely any space to the right of the gallery option. There should be article displayed at a time, and the user should be able to scroll down to see the remaining attractions.
+
+Is there anything about the spacing, alignment, or sizing that's important to the design?
+
+* The Discover Williamstown header should be centered vertically. 
+
+Food
+
+What content does this section contain and how should it be arranged? (e.g., side by side, stacked, grid-like)
+
+* The homepage contains 5 sections: A nav bar, the header image, the header title, the content meant to describe the dining options, and a footer. The 5 sections should be stacked vertically. The nav bar items should remain side by side with gaps in between them.
+
+How many columns or items should appear in a row at desktop width?
+
+* The 5 aforementioned sections should be stacked vertically such that there remains 5 distinct rows. The nav bar items (Home, Attractions, Food, Gallery) should remain side by side such that there are 4 columns apart of the nav bar.
+
+How should that change on a smaller screen?
+
+* Most of the structure should remain the same. The nav bar should shrink in space (in terms of shrinking the gaps on both sides of the nav bar.) In other words, on a mobile screen there should be no space (or barely any space) to the left of the home option, and barely any space to the right of the gallery option. The text for the campus eats information for each restaurant should remain left aligned as is and all restaurant information should, together, be centered to the screen as is.
+
+Is there anything about the spacing, alignment, or sizing that's important to the design?
+
+* The Discover Williamstown header should be centered vertically. 
+
+Gallery
+
+What content does this section contain and how should it be arranged? (e.g., side by side, stacked, grid-like)
+
+* The homepage contains 5 sections: A nav bar, the header image, the header title, the content meant to include various photo cards, and a footer. The 5 sections should be stacked vertically. The nav bar items should remain side by side with gaps in between them.
+
+How many columns or items should appear in a row at desktop width?
+
+* The 5 aforementioned sections should be stacked vertically such that there remains 5 distinct rows. The nav bar items (Home, Attractions, Food, Gallery) should remain side by side such that there are 4 columns apart of the nav bar. The 4 photo cards should form a grid in desktop mode. 
+
+How should that change on a smaller screen?
+
+* Most of the structure should remain the same. The nav bar should shrink in space (in terms of shrinking the gaps on both sides of the nav bar.) In other words, on a mobile screen there should be no space (or barely any space) to the left of the home option, and barely any space to the right of the gallery option. There should be one photo card displayed at a time on a smaller screen.
+
+Is there anything about the spacing, alignment, or sizing that's important to the design?
+
+* The Discover Williamstown header should be centered vertically. 
+* There should not be any black space for all of the actual images. The 4 images used should all be the same size.

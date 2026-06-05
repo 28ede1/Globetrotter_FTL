@@ -55,6 +55,18 @@ One style that didn't look right at first, and what you changed.
 ## Milestone 3: Flexbox Layout
 _Add entries after implementing Flexbox._
 
+One Flexbox property choice you made deliberately, and why.
+
+* For webpages with gallery cards (consisting of a small header, image, and paragraph element), I wanted the gallery cards to be shown one at a time on mobile views and in a grid format on desktop views. For someone using a laptop, it makes less sense to have to scroll so much to see the available attractions, so I decided to display the gallery cards in a grid format, allowing desktop users to view all the attractions at once. For someone using a phone, it makes more sense to let the user scroll through one gallery card at a time rather than having to swipe sideways to view the other gallery cards.
+
+One place where Claude generated a layout that didn't match your plan, and what you changed.
+
+* For the header image shown across all webpages, Claude made the scaling look weird when changing the screen size. The full image would be shown on smaller screen sizes, but a cropped or zoomed-in version of the image would be shown on desktop screen sizes, which did not look appealing. I had Claude revise the sizing of the header so that the image scaled properly on larger screen sizes.
+
+One layout challenge that required adjusting your HTML structure, and why.
+
+* Most of the HTML structure was kept in tact when applying CSS. I tried to leverage using semantic HTML and good parent-child container organization so that I could better use selectors to apply styling. 
+
 ## Milestone 4: Responsive Design
 _Add entries after implementing media queries._
 
