@@ -63,17 +63,17 @@
     </div>
 
     <script>
-        function openModal() {
+        window.openModal = function() {
             document.getElementById('newsletterModal').classList.add('active');
         }
 
-        function closeModal(event) {
+        window.closeModal = function(event) {
             if (!event || event.target.id === 'newsletterModal') {
                 document.getElementById('newsletterModal').classList.remove('active');
             }
         }
 
-        function handleSubmit(event) {
+        window.handleSubmit = function(event) {
             event.preventDefault();
             alert('Thank you for signing up!');
             closeModal();
